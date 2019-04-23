@@ -72,6 +72,10 @@ h2{
 h4{margin: 1em 0px 0px 0px;}
 [class^="column"]{width: 1000px;height: auto;margin: 0px auto;}
 
+/* 內容─動畫 */
+.bounce{animation-delay: 0.2s;}
+.fadeIn{animation-delay: 0.4s;}
+
 /* 內容─圖片按鈕 */
 .column_link,.column_photo{overflow: hidden; padding: 5px 0px 0px 0px;}
 .column_link > a, .column_photo > a{
